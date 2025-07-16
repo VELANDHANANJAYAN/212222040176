@@ -1,0 +1,11 @@
+const express = require('express');
+const app = express();
+const logger = require('./middlewares/loggerMiddleware');
+const routes = require('./routes/urlRoutes');
+const cors = require('cors');
+app.use(cors());
+app.use(express.json());
+app.use(logger);
+app.use('/', routes);
+const PORT = 8000;
+app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));

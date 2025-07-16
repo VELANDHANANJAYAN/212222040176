@@ -1,0 +1,62 @@
+{
+  "saveethaCSE": {
+    "originalUrl": "https://saveetha.ac.in/departments/cse",
+    "createdAt": "2025-07-16T10:04:01.756Z",
+    "expiry": "2025-07-16T11:04:01.756Z",
+    "clicks": [
+      {
+        "timestamp": "2025-07-16T10:04:12.445Z",
+        "referrer": "http://localhost:5173/",
+        "location": "Unknown"
+      }
+    ]
+  },
+  "funnylink": {
+    "originalUrl": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+    "createdAt": "2025-07-16T10:06:17.289Z",
+    "expiry": "2025-07-16T10:21:17.289Z",
+    "clicks": [
+      {
+        "timestamp": "2025-07-16T10:06:26.813Z",
+        "referrer": "http://localhost:5173/",
+        "location": "Unknown"
+      }
+    ]
+  },
+  "deepAI2025": {
+    "originalUrl": "https://www.universityoftechnology.edu.in/faculties/engineering/computer-science/departments/advanced-machine-learning-and-data-science/academics/projects/2025/deep-neural-networks-and-ethical-ai-integration-for-industrial-use",
+    "createdAt": "2025-07-16T10:42:00.071Z",
+    "expiry": "2025-07-16T12:42:00.071Z",
+    "clicks": [
+      {
+        "timestamp": "2025-07-16T10:42:39.244Z",
+        "referrer": "http://localhost:5173/",
+        "location": "Unknown"
+      }
+    ]
+  },
+  "jsGuide2025": {
+    "originalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction_to_JavaScript#working_with_objects",
+    "createdAt": "2025-07-16T10:44:54.808Z",
+    "expiry": "2025-07-16T11:44:54.808Z",
+    "clicks": [
+      {
+        "timestamp": "2025-07-16T10:45:09.595Z",
+        "referrer": "http://localhost:5173/",
+        "location": "Unknown"
+      }
+    ]
+  },
+  "nasaWebb": {
+    "originalUrl": "https://www.nasa.gov/missions/webb/nasa-webb-space-telescope-reveals-early-galaxy-clusters-in-universe",
+    "createdAt": "2025-07-16T10:46:29.436Z",
+    "expiry": "2025-07-16T12:16:29.436Z",
+    "clicks": [
+      {
+        "timestamp": "2025-07-16T10:46:44.465Z",
+        "referrer": "http://localhost:5173/",
+        "location": "Unknown"
+      }
+    ]
+  }
+}
